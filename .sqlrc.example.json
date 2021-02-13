@@ -1,0 +1,9 @@
+{
+    "adapter": "postgres",
+    "database": "postgres",
+    "host": "localhost",
+    "name": "postgres",
+    "password": "",
+    "port": 5432,
+    "user": "postgres"
+}
